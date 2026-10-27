@@ -17,7 +17,7 @@ I am a Bachelor of Arts graduate (CGPA: 9.34 / 10) with practical exposure to we
 | Project | Description | Links |
 | :--- | :--- | :--- |
 | **Gyanix Academy** | Educational website built as an academic project with a structured and clear, user-friendly layout. | [Live](https://gyanix-acedemy-gyanix-academy-8bqc.vercel.app) |
-| **Typing Rush** | Neon sci-fi typing shooter game. Type words to destroy incoming enemy ships. | Live |
+| **Typing Rush** | Neon sci-fi typing shooter game. Type words to destroy incoming enemy ships. | Live |(https://typing-rush-game.vercel.app)
 
 ---
 
@@ -70,3 +70,11 @@ I am a Bachelor of Arts graduate (CGPA: 9.34 / 10) with practical exposure to we
 
 For work or collaboration:  
 **Email:** [sakshigill304@gmail.com](mailto:sakshigill304@gmail.com)
+
+
+###linkedin
+(https://www.linkedin.com/in/sakshi-gill-57b71843a?trk=contact-info)
+
+
+
+
