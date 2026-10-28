@@ -1,7 +1,9 @@
 # Sakshi Gill
 
 **Aspiring Web Developer · AI & Digital Content Creator** · Kaithal, Haryana, India  
-**Live project:** [gyanix-acedemy-gyanix-academy-8bqc.vercel.app](https://gyanix-acedemy-gyanix-academy-8bqc.vercel.app)
+
+**Live project:**
+**website**[gyanix-acedemy-gyanix-academy-8bqc.vercel.app](https://gyanix-acedemy-gyanix-academy-8bqc.vercel.app)
 
 **game**  [https://typing-rush-game.vercel.app/](https://typing-rush-game.vercel.app/)
 
