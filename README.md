@@ -2,7 +2,11 @@
 
 **Aspiring Web Developer · AI & Digital Content Creator** · Kaithal, Haryana, India  
 **Live project:** [gyanix-acedemy-gyanix-academy-8bqc.vercel.app](https://gyanix-acedemy-gyanix-academy-8bqc.vercel.app)
-[https://typing-rush-game.vercel.app/](https://typing-rush-game.vercel.app/)
+
+**game**  [https://typing-rush-game.vercel.app/](https://typing-rush-game.vercel.app/)
+
+**portfolio**[https://portfolio-sakshi-swart.vercel.app](https://portfolio-sakshi-swart.vercel.app)
+
 **Email:** [sakshigill304@gmail.com](mailto:sakshigill304@gmail.com)
 
 ---
