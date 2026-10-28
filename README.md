@@ -79,8 +79,6 @@ For work or collaboration:
 **Email:** [sakshigill304@gmail.com](mailto:sakshigill304@gmail.com)
 
 
-###linkedin
-(https://www.linkedin.com/in/sakshi-gill-57b71843a?trk=contact-info)
 
 
 
